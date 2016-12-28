@@ -10321,6 +10321,12 @@ code {
 	font-weight: 300;
 }
 
-
+/* santa's override */
+.logo-cake img {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 256px;
+	margin-left: -15px;
+}
 
 
